@@ -1,0 +1,6 @@
+{
+  "name": "Sethulakshmi Jayaprakash — Application To Date Me",
+  "description": "Personal dating profile and boyfriend application for Sethulakshmi Jayaprakash (27). Visual gallery, green & red flags, and direct contact.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
